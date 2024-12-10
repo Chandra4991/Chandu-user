@@ -1,6 +1,6 @@
 // Call the Shared Lib
 
-@Library("com.i27academy.slb@master") _
+@Library("com.Chandra4991.slb@master") _
 k8sPipeline(
     appName: 'user'
 )
